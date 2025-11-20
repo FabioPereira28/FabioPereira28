@@ -2,6 +2,7 @@
 Hi 👋, I’m Fábio, a Portuguese tech enthusiast ✨. <br>I enjoy exploring new technologies 🔍, building <br>projects 🏗️, and learning new things along the way 🤓. <br>Always curious and eager to improve <br>my coding skills while having fun with what I do 🏆.
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fábio-pereira02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fabioadsp02@gmail.com) 
 
